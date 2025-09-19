@@ -1,0 +1,18 @@
+# Lesson Title: "Admissions Test Content (PAT): Circular Motion"
+
+## Summary & Student Progress
+Today’s lesson continued towards developing [Student Name]’s advanced and deep understanding of all of the syllabus content. Today we continued developing [Student Name]’s understanding of circular motion. In particular, we focused on getting a deep understanding and intuition behind centripetal force and centripetal acceleration - the forces required to act on an object in order to induce circular motion. We learned how we describe it, formulas for it, and why/how it arises. In particular, we attempted a difficult BPhO question delving into the fundamental derivation of centripetal acceleration from first principles. [Student Name] performed very well on this question and had little trouble with it. I think it helped [Student Name] get to grips with the nature of centripetal force. [Student Name]’s handling of calculating the limit at the end was really great.
+
+Finally, we then worked on some applications of centripetal force by attempting some PAT questions. These were from the old syllabus so a little different to what they will be like in the actual PAT, but as we discussed, it is good for [Student Name] to attempt a range of practice questions as this will best prepare [Student Name] and [Student Name]’s problem solving skills for the difficult and sometimes unpredictable admissions tests. [Student Name] was quick to understand and appreciate the different mechanisms of centripetal force and how to work with them, including electrostatic forces which provide centripetal force in atoms, and the normal force, which provides centripetal force in centrifuges or centrifuge-like contraptions. At the end of the lesson, [Student Name] asked many great questions to enhance [Student Name]’s understanding of circular motion in the banking of a plane.
+
+Based on today’s lesson, some things for [Student Name] to work on and improve include:
+- Remember and get more comfortable with drawing vector diagrams and interpreting sums and differences of vectors geometrically.
+- If you encounter unfamiliar content, try not to get overwhelmed. Read the question carefully, approach it carefully, and consider what different ideas might mean and how they might relate to ideas you already know - this is a skill we will develop since the PAT does often include some unfamiliar content.
+
+## Homework & Plans for Next Session
+Our last lesson was only on Sunday so [Student Name] did not have a chance to finish the homework tasks from last time, so I’d recommend continuing with those, as well as finishing off the PAT questions from the miro board that we didn’t get around to finishing. I would also encourage [Student Name] to find a level textbook and just read through the chapter about Circular Motion just to ensure that [Student Name] has all the knowledge required and we have not missed anything, and to emphasize the key ideas, equations and skills we have spoken about.
+
+Next lesson we will move onto covering Electric Fields. As discussed in the lesson, to speed things up and make our lessons more effective, it would be good if [Student Name] reads up on these topics before our lesson so we can spend our lessons going deeper and ensuring a full understanding rather than introducing the basics. Here are some resources [Student Name] can read up on to start understanding electric fields:
+- https://www.youtube.com/watch?v=VFbyDCG_j18
+- https://www.youtube.com/watch?v=_4VC3IHbuW8
+- https://pmt.physicsandmathstutor.com/download/Physics/A-level/Notes/OCR-A/6-Particles-and-Medical-Physics/Detailed/6.2.%20Electric%20Fields.pdf
