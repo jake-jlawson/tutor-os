@@ -1,0 +1,8 @@
+/backend/venv/
+/backend/.env
+/backend/reports/venv/
+/backend/reports/.env
+/backend/reports/venv/
+.env
+.env.*
+/backend/reports/venv/
